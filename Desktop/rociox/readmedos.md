@@ -1,0 +1,3 @@
+¿Qué es Redux? Es un patrón que se utiliza para poder trabajar mejor los componentes, debido a que cada componente maneja su propia información y propio estado. Por ejemplo, esto ya viene implementado en Vuex.
+¿Qué es Vuex? Es una especie de librería que permite gestionar el estado de las aplicaciones en Vue.js. 
+¿Por qué usar un administrador de estado? Porque permite un trabajo más ordenado y cada parte del estado. Entonces, acá se trabaja con una especie de ciclo: el componente de Vue, el action, la mutacion y el state. Y cada uno de ellos se va relacionando con una parte del trabajo. Por ejemplo, en el action se maneja lo referidos a las bases de datos.
